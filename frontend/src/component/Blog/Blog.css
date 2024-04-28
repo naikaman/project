@@ -1,0 +1,8 @@
+.blog_list video{
+    width: 300px;
+
+}
+.blog{
+    margin: 10px;
+    font-size: max(3vw,20px);
+}
